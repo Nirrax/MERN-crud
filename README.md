@@ -83,18 +83,6 @@ cd client
 npm start
 ```
 ---
-
-## API Endpoints
-
-| Method | Endpoint             | Description       |
-|--------|----------------------|-------------------|
-| GET    | `/api/users`          | Fetch all users   |
-| POST   | `/api/users`          | Create a new user |
-| GET    | `/api/users/:id`      | Get a user by ID  |
-| PUT    | `/api/users/:id`      | Update a user     |
-| DELETE | `/api/users/:id`      | Delete a user     |
-
----
 ## License
 
 This project is licensed under the MIT License.
